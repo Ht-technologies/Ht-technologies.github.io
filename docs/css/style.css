@@ -1,0 +1,23 @@
+*{
+font-family: arial;
+}
+
+.title{
+text-align: center;
+font-family: arial;
+font-size: 60px;
+color: #333333;
+}
+
+.slogan{
+text-align: center;
+font-family: arial;
+color: #555555
+}
+h1{
+color: #444444;
+margin-left: 20px;
+}
+.divider{
+height: 150px;
+}
